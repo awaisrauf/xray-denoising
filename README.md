@@ -1,7 +1,8 @@
 # Unsupervsied Denoising of X-Rays
 Further details [link](https://awaisrauf.github.io/xray-denoising)
+## Abstract
 
-### Results
+## Results
 
 ![](imgs/NLM.png)
 
