@@ -9,4 +9,5 @@ Some qualitative results are shown here. For more results, see paper.
 ![](imgs/CHEST.png)
 
 ### References 
-This code is heavily based on following repository: https://github.com/ricedsp/D-AMP_Toolbox/tree/master/LDAMP_TensorFlow
+This code is heavily based on following repository.
+https://github.com/ricedsp/D-AMP_Toolbox/tree/master/LDAMP_TensorFlow
